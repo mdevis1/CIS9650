@@ -6,3 +6,4 @@ Visuals and Machine Learning algorithms.py - Code that includes different visual
 CIS_9650_Group 2_Primary Recommendation System_V2.py - Our first recommendation dating system 
 Second_Recommendation_System.py - Our second recommendation dating system
 CIS9650 - Jupyter Notebook.pdf - The pdf version of our visualizations and machine learning algorithms 
+[embed]CIS9650 - Jupyter Notebook.pdf[/embed]
